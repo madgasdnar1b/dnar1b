@@ -32,7 +32,7 @@
 #endif
 
 using Common::JsonValue;
-using namespace CryptoNote;
+using namespace Madgascoin;
 using namespace Logging;
 
 namespace po = boost::program_options;
